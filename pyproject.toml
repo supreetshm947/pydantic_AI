@@ -11,6 +11,9 @@ pydantic-ai = "^0.0.17"
 python-dotenv = "^1.0.1"
 ipykernel = "^6.29.5"
 logfire = "^2.11.1"
+devtools = "0.12.0"
+psycopg2-binary = "^2.9.10"
+cohere = "^5.13.5"
 
 
 [build-system]
